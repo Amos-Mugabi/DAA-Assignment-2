@@ -10,7 +10,8 @@ Recursively sort the sub-arrays.
 Join the sub-arrays and the pivot back into a single sorted array.
 
 A diagram to illustrate quick sort.
-![quicksort img](https://github.com/Amos-Mugabi/DAA-Assignment-2/assets/115138015/20424ac1-19df-4b5a-a0fd-8b7a264d9452)
+![quicksort img](https://github.com/Amos-Mugabi/DAA-Assignment-2/assets/115138015/2a7dc662-5819-4415-bd0d-2550c87543ba)
+
 
 
 
@@ -42,9 +43,10 @@ element in the input array and using this information to place the elements in s
 
 Counting Phase: Count the number of occurrences of each element and store the count in an auxiliary array, 
 often referred to as the counting array.
+![countingsort img](https://github.com/Amos-Mugabi/DAA-Assignment-2/assets/115138015/47a9ec91-512b-407b-ad42-aa709e97c322)
 
 A diagram to illustrate counting sort.
-![countingsort img](https://github.com/Amos-Mugabi/DAA-Assignment-2/assets/115138015/3a47f7e7-c330-44b7-a6fa-62f0ae9b0ea9)
+
 
 
 Analysis:
@@ -70,7 +72,9 @@ Repeat: Continue this process until the heap size is reduced to 1.
 The remaining element will be the sorted array.
 
 A diagram to illustrate heap sort.
-<img width="614" alt="heapsort img" src="https://github.com/Amos-Mugabi/DAA-Assignment-2/assets/115138015/07886d11-1f69-4732-bb01-aa7621a1af0a">
+<img width="614" alt="heapsort img" src="https://github.com/Amos-Mugabi/DAA-Assignment-2/assets/115138015/347a78be-95dd-44ee-980d-1236e40c2628">
+
+
 
 Explanation:
 
